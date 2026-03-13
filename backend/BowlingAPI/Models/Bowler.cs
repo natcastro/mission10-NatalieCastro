@@ -1,5 +1,5 @@
 namespace BowlingAPI.Models;
-
+// This class represents a bowler in the database
 public class Bowler
 {
     public int BowlerId { get; set; }
